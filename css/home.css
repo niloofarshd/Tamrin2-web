@@ -1,0 +1,41 @@
+.header-link{
+	/*text-align: center;*/
+	  margin-top: 8px;
+	border: 10px white solid;
+	color: gray;
+	display: inline-block;
+    padding: 8px 16px;
+    background-color: white;
+    letter-spacing: 2px;
+  
+}
+
+.pos {
+   margin-top: -10px;
+	position: fixed;
+	background-color: white;
+	box-shadow:10px 5px 20px grey;
+    width: 1349px;
+    height: 77px;
+    margin-left: -7px;
+}
+.hover div:hover {
+
+     background-color: gray;
+     color: black;
+    }
+
+.imgpos{
+	/*position: relative;*/
+	
+	margin-top: 70px;
+	margin-left: 159px;
+    margin-right: 229px;
+	/*margin-left: 100px;*/
+
+}
+
+.clr{
+	color: gray;
+	font-size: 15px;
+}
